@@ -1,0 +1,30 @@
+
+.top-bar {
+ 
+  color: #fff;
+  padding: 1rem;
+}
+
+.btn {
+  background: cadetblue;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0.5rem 2rem;
+  float: right;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.page-info {
+  margin-left: 5rem;
+}
+
+.error {
+  background: rgb(228, 9, 20);
+  color: #fff;
+  padding: 1rem;
+}
